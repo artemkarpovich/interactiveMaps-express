@@ -1,0 +1,19 @@
+{
+  "name": "interactive-maps-express",
+  "version": "1.0.0",
+  "description": "\"# interactiveMaps-express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkarpovich/interactiveMaps-express.git"
+  },
+  "author": "artemkarpovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemkarpovich/interactiveMaps-express/issues"
+  },
+  "homepage": "https://github.com/artemkarpovich/interactiveMaps-express#readme"
+}
