@@ -10,7 +10,7 @@ router.get('/location-categories', (req, res) => {
   res.json(locationCategories);
 });
 
-router.post('/details', (req, res) => {
+router.post('/locations', (req, res) => {
   const categoryName = req.body.categoryName;
 
   const locationsByCategory = _.filter(locations, item => item.category === categoryName);
