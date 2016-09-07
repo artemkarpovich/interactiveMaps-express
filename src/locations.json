@@ -1,0 +1,223 @@
+[
+  {
+    "id": 11,
+    "category": "shops",
+    "name": "Евроопт",
+    "coordinates": {
+      "lat": 53.6887,
+      "lon": 23.8454
+    },
+    "description": "Торговый центр",
+    "address": "улица Тимирязева, 8"
+  },
+  {
+    "id": 12,
+    "category": "shops",
+    "name": "Евроопт",
+    "coordinates": {
+      "lat": 53.701668,
+      "lon": 23.835936
+    },
+    "description": "Гипермаркет",
+    "address": "улица Дубко, 8"
+  },
+  {
+    "id": 13,
+    "category": "shops",
+    "name": "Алми",
+    "coordinates": {
+      "lat": 53.696541,
+      "lon": 23.834186
+    },
+    "description": "Cупермаркет",
+    "address": "улица Пушкина, 31а"
+  },
+  {
+    "id": 14,
+    "category": "shops",
+    "name": "Рублевский",
+    "coordinates": {
+      "lat": 53.700724,
+      "lon": 23.852424
+    },
+    "description": "Cупермаркет",
+    "address": "улица Брикеля, 26"
+  },
+  {
+    "id": 15,
+    "category": "shops",
+    "name": "Алми",
+    "coordinates": {
+      "lat": 53.672113,
+      "lon": 23.862916
+    },
+    "description": "Cупермаркет",
+    "address": "проспект Космонавтов, 81"
+  },
+  {
+    "id": 21,
+    "category": "bars",
+    "name": "Корчма",
+    "coordinates": {
+      "lat": 53.682296,
+      "lon": 23.832210
+    },
+    "description": "Бар, паб",
+    "address": "улица Советская, 31"
+  },
+  {
+    "id": 22,
+    "category": "bars",
+    "name": "Корица",
+    "coordinates": {
+      "lat": 53.682684,
+      "lon": 23.831411
+    },
+    "description": "Бар, паб, кафе",
+    "address": "улица Виленская, 6"
+  },
+  {
+    "id": 23,
+    "category": "bars",
+    "name": "Семафор",
+    "coordinates": {
+      "lat": 53.681283,
+      "lon": 23.831492
+    },
+    "description": "Бар, паб, кафе",
+    "address": "улица Советская, 23"
+  },
+  {
+    "id": 24,
+    "category": "bars",
+    "name": "Чарли",
+    "coordinates": {
+      "lat": 53.682846,
+      "lon": 23.835581
+    },
+    "description": "Бар, паб",
+    "address": "улица Социалистическая, 4"
+  },
+  {
+    "id": 25,
+    "category": "bars",
+    "name": "Паб 32",
+    "coordinates": {
+      "lat": 53.679377,
+      "lon": 23.835093
+    },
+    "description": "Кафе, ресторан",
+    "address": "улица Социалистическая, 32"
+  },
+  {
+    "id": 31,
+    "category": "pharmacies",
+    "name": "Аптека-музей",
+    "coordinates": {
+      "lat": 53.678814,
+      "lon": 23.830197
+    },
+    "description": "Аптека, музей",
+    "address": "площадь Советская, 2"
+  },
+  {
+    "id": 32,
+    "category": "pharmacies",
+    "name": "Аптека № 2 ОДО Салюслайн",
+    "coordinates": {
+      "lat": 53.681389,
+      "lon": 23.831119
+    },
+    "description": "Аптека",
+    "address": "улица Советская, 14"
+  },
+  {
+    "id": 33,
+    "category": "pharmacies",
+    "name": "Аптека № 1 ОДО Салюслайн",
+    "coordinates": {
+      "lat": 53.680628,
+      "lon": 23.830885
+    },
+    "description": "Аптека",
+    "address": "улица Советская, 15"
+  },
+  {
+    "id": 34,
+    "category": "pharmacies",
+    "name": "Гродненское РУП Фармация Аптека № 1 второй категории",
+    "coordinates": {
+      "lat": 53.683522,
+      "lon": 23.836701
+    },
+    "description": "Аптека",
+    "address": "улица Ожешко, 11"
+  },
+  {
+    "id": 35,
+    "category": "pharmacies",
+    "name": "КосмоФарма аптека № 7 пятой категории",
+    "coordinates": {
+      "lat": 53.688469,
+      "lon": 23.845517
+    },
+    "description": "Аптека",
+    "address": "улица Тимирязева, 8"
+  },
+  {
+    "id": 41,
+    "category": "clubs",
+    "name": "Молодежный центр",
+    "coordinates": {
+      "lat": 53.679950,
+      "lon": 23.831251
+    },
+    "description": "Ночной клуб",
+    "address": "улица Советская, 9"
+  },
+  {
+    "id": 42,
+    "category": "clubs",
+    "name": "Хамелеон",
+    "coordinates": {
+      "lat": 53.681947,
+      "lon": 23.832064
+    },
+    "description": "Дискотека, ночной клуб",
+    "address": "улица Советская, 29"
+  },
+  {
+    "id": 43,
+    "category": "clubs",
+    "name": "Колизей 2000",
+    "coordinates": {
+      "lat": 53.676390,
+      "lon": 23.838630
+    },
+    "description": "Ночной клуб, кафе",
+    "address": "улица Карла Маркса, 31"
+  },
+  {
+    "id": 44,
+    "category": "clubs",
+    "name": "Ночной клуб База",
+    "coordinates": {
+      "lat": 53.654172,
+      "lon": 23.829901
+    },
+    "description": "Ночной клуб",
+    "address": "улица Победы, 35"
+  },
+  {
+    "id": 45,
+    "category": "clubs",
+    "name": "Африка",
+    "coordinates": {
+      "lat": 53.707254,
+      "lon": 23.827200
+    },
+    "description": "Дискотека, ночной клуб",
+    "address": "улица Курчатова, 1"
+  }
+]
+
